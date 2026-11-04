@@ -1,0 +1,41 @@
+case_id,query,expected_id,expected_question,confidence,band
+1,why should i use bhmarketer for techbullion,1,What are the benefits of using BHMarketer for a TechBullion press release?,100,Strong match
+2,how quickly will my techbullion post go live,2,How fast does a TechBullion press release go live through BHMarketer?,80,Good match
+3,will i get the live url after publishing,3,Does BHMarketer provide live links for TechBullion publications?,44,Possible match
+4,do you write the article for me,4,Is content writing included when I order a TechBullion post from BHMarketer?,88,Strong match
+5,can techbullion help my brand reputation,5,Will a TechBullion press release by BHMarketer help my brand's online reputation?,100,Strong match
+6,can i add a logo or screenshots,6,Can I add images to my TechBullion press release with BHMarketer?,83,Strong match
+7,what word count should my article be,7,What formatting rules apply to a TechBullion press release via BHMarketer?,58,Possible match
+8,do you check my draft against editorial guidelines,8,Does BHMarketer check if my TechBullion submission meets editorial guidelines?,65,Good match
+9,do the dofollow links stay active,9,Do the links in a BHMarketer TechBullion post stay active?,94,Strong match
+10,how do you get the post indexed in google,10,How does BHMarketer make sure a TechBullion press release gets indexed?,67,Good match
+11,where can i buy a techbullion package,11,Where can I buy a TechBullion press release package from BHMarketer?,100,Strong match
+12,how much does a techbullion press release cost,12,What is the typical price range to buy a TechBullion press release from BHMarketer?,100,Strong match
+13,bulk packages for agencies,13,Can I buy bulk TechBullion press release placements from BHMarketer?,67,Good match
+14,can i pay with paypal,14,What payment methods are accepted when I buy from BHMarketer?,88,Strong match
+15,is there a white label reseller dashboard,15,Does BHMarketer offer a reseller dashboard for buying TechBullion press releases?,88,Strong match
+16,is buying techbullion links safe for seo,16,Is it safe to buy TechBullion links through BHMarketer for Google SEO?,80,Good match
+17,what if my post gets rejected,17,Can I get a refund if my post cannot be published on TechBullion?,58,Possible match
+18,how do i contact support on telegram,18,How can I contact BHMarketer support after buying a TechBullion package?,88,Strong match
+19,do i need to create an account,19,Do I need an account to buy services from BHMarketer.ai?,50,Possible match
+20,can i target a specific country,20,Can I target specific locations when buying a TechBullion post?,92,Strong match
+21,does techbullion accept crypto articles,21,Are crypto-related articles allowed on TechBullion through BHMarketer?,81,Strong match
+22,what are the rules for crypto press releases,22,What are the rules for publishing a TechBullion crypto press release?,100,Strong match
+23,can i add my smart contract address,23,Can I include smart contract addresses in a TechBullion crypto post?,69,Good match
+24,can i pay in bitcoin or usdt,24,Does BHMarketer accept crypto payments for TechBullion crypto press releases?,83,Strong match
+25,will it help my token rank in search,25,Will a crypto press release on TechBullion boost my token's search ranking?,81,Strong match
+26,can i publish nft news,26,Can I publish NFT project news on TechBullion via BHMarketer?,100,Strong match
+27,is the crypto post labeled as an ad,27,Does a TechBullion crypto post get labeled as an advertisement?,94,Strong match
+28,can i link to an exchange,28,Can I link to a crypto exchange from my TechBullion press release?,100,Strong match
+29,why techbullion for crypto marketing,29,What makes TechBullion a good choice for crypto marketing campaigns?,100,Strong match
+30,how long will my crypto article stay online,30,How long does a crypto article stay live on TechBullion via BHMarketer?,95,Strong match
+31,can i launch a presale campaign on techbullion,31,Can I launch a crypto presale campaign on TechBullion using BHMarketer?,100,Strong match
+32,do i need a risk disclaimer,32,Are special warnings required for a TechBullion crypto presale press release?,75,Good match
+33,can i link to my presale buy page,33,Can my TechBullion presale press release link directly to a token buying page?,75,Good match
+34,how do you maximize presale visibility,34,How does BHMarketer optimize a presale press release for maximum visibility?,67,Good match
+35,can i promote a meme coin,35,Can I promote a meme token presale on TechBullion through BHMarketer?,92,Strong match
+36,do i need a smart contract audit,36,Is a smart contract audit required for a TechBullion presale press release?,100,Strong match
+37,how many days before launch should i book,37,How early should I order a TechBullion presale press release before launch?,60,Possible match
+38,can i publish a series of presale updates,38,Can I run multiple presale updates on TechBullion with BHMarketer?,69,Good match
+39,can i bundle with other crypto news sites,39,Does BHMarketer offer multi-site packages for crypto presale marketing?,65,Good match
+40,can i change links after the presale ends,40,Can I update the links in my TechBullion presale post after the presale ends?,95,Strong match
