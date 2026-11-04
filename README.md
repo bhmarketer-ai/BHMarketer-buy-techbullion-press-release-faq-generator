@@ -1,6 +1,7 @@
 # BHMarketer.ai: Buy TechBullion Press Release FAQ Generator 💻🔎
 
 [![npm](https://img.shields.io/npm/v/@bhmarketer-ai/techbullion-faq-generator?style=flat-square&color=e05c1a&labelColor=1a1f3b)](https://www.npmjs.com/package/@bhmarketer-ai/techbullion-faq-generator)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23957801.svg)](https://doi.org/10.5281/zenodo.23957801)
 [![Docs](https://img.shields.io/badge/docs-readthedocs-e05c1a?style=flat-square&labelColor=1a1f3b)](https://bhmarketer-techbullion-faq-generator.readthedocs.io)
 [![Hugging Face](https://img.shields.io/badge/dataset-hugging%20face-e05c1a?style=flat-square&labelColor=1a1f3b)](https://huggingface.co/datasets/bhmarketer/techbullion-faq-dataset)
 [![License](https://img.shields.io/badge/license-MIT-8A8A8A?style=flat-square&labelColor=1a1f3b)](LICENSE)
@@ -228,7 +229,7 @@ BHMarketer.ai · TechBullion Press Release · Buy TechBullion Press Release · G
 | Hugging Face | https://huggingface.co/datasets/bhmarketer/techbullion-faq-dataset |
 | Hugging Face profile | https://huggingface.co/bhmarketer |
 | Kaggle | https://www.kaggle.com/datasets/bhmarketer/techbullion-faq-dataset |
-| Zenodo | Add your DOI link after the first release |
+| Zenodo | https://doi.org/10.5281/zenodo.23957801 |
 | Docs | https://bhmarketer-techbullion-faq-generator.readthedocs.io |
 | LinkedIn | https://www.linkedin.com/company/bhmarketer-ai/ |
 | X | https://x.com/bhmarketer_com |
