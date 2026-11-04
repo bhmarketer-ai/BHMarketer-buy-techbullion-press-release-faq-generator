@@ -1,0 +1,57 @@
+{
+  "title": "BHMarketer TechBullion FAQ Generator: Question Search and FAQ Schema Generation for TechBullion Press Releases",
+  "upload_type": "software",
+  "description": "The BHMarketer TechBullion FAQ Generator is a question search tool for BHMarketer.ai's TechBullion press release service. A user types a question in plain English and the tool returns the matching official answer from 40 FAQs with a match-confidence score from 0 to 100. It also generates the FAQ, in full or by category, as Markdown, JSON, FAQPage JSON-LD or HTML. Covers the service, buying and pricing (packages from around $40 to $90 per post), crypto press releases and crypto presale campaigns. Includes identical TypeScript (NPM) and Python implementations, a 40-entry FAQ dataset and a 40-question search benchmark. Not affiliated with TechBullion. Built by BHMarketer.ai.",
+  "creators": [
+    {
+      "name": "BHMarketer.ai"
+    }
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "BHMarketer.ai",
+    "TechBullion",
+    "TechBullion press release",
+    "buy press release",
+    "crypto press release",
+    "crypto presale",
+    "FAQ generator",
+    "FAQ search",
+    "FAQPage schema",
+    "JSON-LD",
+    "AI search visibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://bhmarketer.ai/products/techbullion/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://getontechbullion.com/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/bhmarketer-ai/BHMarketer-buy-techbullion-press-release-faq-generator",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.npmjs.com/package/@bhmarketer-ai/techbullion-faq-generator",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/bhmarketer/techbullion-faq-dataset",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.kaggle.com/datasets/bhmarketer/techbullion-faq-dataset",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ]
+}

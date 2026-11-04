@@ -1,0 +1,21 @@
+site_name: BHMarketer TechBullion FAQ Generator
+site_url: https://bhmarketer-techbullion-faq-generator.readthedocs.io/
+site_description: Search 40 official TechBullion press release FAQs in plain English and generate the FAQ as Markdown, JSON, FAQPage JSON-LD or HTML.
+site_author: BHMarketer.ai
+repo_url: https://github.com/bhmarketer-ai/BHMarketer-buy-techbullion-press-release-faq-generator
+repo_name: bhmarketer-ai/BHMarketer-buy-techbullion-press-release-faq-generator
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: deep orange
+  features:
+    - navigation.sections
+    - toc.integrate
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
